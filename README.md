@@ -1,4 +1,4 @@
-    1. Clone the application from github into your local stream_socket_server  
+    1. Clone the application from github into your local server  
         2. Create a database and set the database name, username and password into your in the .inv file 
         3. run php artisan migrate 
         4. run php artisan db:seed 
